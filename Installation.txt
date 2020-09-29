@@ -1,0 +1,13 @@
+1) Install python to your windows machine
+
+2) Then install follows using cmd 
+
+pip install cmake
+pip install dlib
+pip install face-recognition
+pip install numpy
+pip install opencv-python
+
+3) Go to this file folder, Open cmd in there, Type below command and Enter 
+
+python example_face_recognition.py
